@@ -4,10 +4,12 @@ A shortcut instruction based on LLama 2 to expand the stable diffusion prompt, P
 - Install shortcuts from the following address:
 https://www.icloud.com/shortcuts/1b32e87152e84bbeb4aa74ed88c9bc38
 
-- Then edit it and modify the directory where llama.cpp main is located and the model directory as shown in the figure below. 
-The parameter configuration turns on GPU acceleration by default.
-It is recommended to use the Llama-2-7b-chat-q4_1.gguf model.
-(If you haven't used llama.cpp, please learn about this project first)
+- Then edit it and modify the directory where llama.cpp main is located and the model directory as shown in the figure below.
+
+  The parameter configuration turns on GPU acceleration by default. It is recommended to use the Llama-2-7b-chat-q4_1.gguf model.
+
+  (If you haven't used llama.cpp, please learn about this project first)
+
 <img width="887" alt="modify" src="https://github.com/czkoko/SD-AI-Prompt/assets/90698189/620e4252-6503-4148-8653-a11f5491b410">
 
 
