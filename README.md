@@ -46,3 +46,10 @@ Original Prompt: `a beautiful woman`
 
 AI Prompt: `A stunningly beautiful woman with long blonde hair and piercing blue eyes, standing on a rocky cliffside overlooking the ocean, the sun setting behind her, Wide-angle shot, dramatic lighting, warm color tone.`
 ![IMG_00052](https://github.com/czkoko/SD-AI-Prompt/assets/90698189/9f84d4c4-a9fe-4686-ba55-492640080154)
+
+
+You can also specify the picture style, just like this:
+
+Original Prompt: use cartoon style, A girl sitting in a coffee shop
+
+AI Prompt: a cute young girl with pink hair and big blue eyes sitting at a small table in a cozy coffee shop, surrounded by warm colors and soft lighting, cartoon-style illustration.
