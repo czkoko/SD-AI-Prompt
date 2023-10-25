@@ -50,6 +50,6 @@ AI Prompt: `A stunningly beautiful woman with long blonde hair and piercing blue
 
 You can also specify the picture style, just like this:
 
-Original Prompt: use cartoon style, A girl sitting in a coffee shop
+Original Prompt: `use cartoon style, A girl sitting in a coffee shop`
 
-AI Prompt: a cute young girl with pink hair and big blue eyes sitting at a small table in a cozy coffee shop, surrounded by warm colors and soft lighting, cartoon-style illustration.
+AI Prompt: `a cute young girl with pink hair and big blue eyes sitting at a small table in a cozy coffee shop, surrounded by warm colors and soft lighting, cartoon-style illustration.`
