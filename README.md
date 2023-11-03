@@ -15,9 +15,11 @@ A shortcut instruction based on LLama 2 to expand the stable diffusion prompt, P
 
 - Install shortcuts from the following address:
   
-  [https://www.icloud.com/shortcuts/1b32e87152e84bbeb4aa74ed88c9bc38](https://www.icloud.com/shortcuts/93ae5c2c26a246878ae6d666f87c8ba3)
+  https://www.icloud.com/shortcuts/5b75e1494c514a4bb3501f2e1a6acbb6
   
   2023/10/25 update：Solve the problem that the prompt may not meet expectations.
+
+  2023/11/4  update：Solved the problem that multiple results may be generated continuously and cannot be stopped in time.
 
 - Then edit it and modify the directory where llama.cpp main is located and the model directory as shown in the figure below.
 
