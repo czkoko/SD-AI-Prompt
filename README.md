@@ -6,12 +6,6 @@ A shortcut instruction based on LLama 2 to expand the stable diffusion prompt, P
   
   SDXL can understand and restore these descriptions well, which is much better than using a lot of phrases.
   
-  There is no use of the prompt prefix specified by LLama 2, but it is better now, and there will be no unwanted expressions.
-  
-  Because it needs to end automatically after running, it is impossible to intercept the ending suffix symbol. 
-  
-  Sometimes two prompts may be generated, using double time, but the shortcut will be filled with the correct prompt.
-  
 
 - Install shortcuts from the following address:
   
@@ -24,6 +18,8 @@ A shortcut instruction based on LLama 2 to expand the stable diffusion prompt, P
 - Then edit it and modify the directory where llama.cpp main is located and the model directory as shown in the figure below.
 
   The parameter configuration turns on GPU acceleration by default. It is recommended to use the Llama-2-7b-chat-q4_1.gguf model.
+
+  Recommend to use Qwen 1.8B  https://huggingface.co/Qwen/Qwen-1_8B-Chat Fewer parameters, faster speed, and the same effect as llama 7B.
 
   (If you haven't used llama.cpp, please learn about this project first, With the following parameters, the startup speed will be faster, and the --prompt-cache-ro parameter should be removed for the first time.)
   
